@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>drawables/icon/compile.png</file>
+        <file>drawables/icon/Configure.png</file>
+        <file>drawables/icon/copy.png</file>
+        <file>drawables/icon/Copy_32x32.png</file>
+        <file>drawables/icon/cut.png</file>
+        <file>drawables/icon/Cut_32x32.png</file>
+        <file>drawables/icon/Delete_32x32.png</file>
+        <file>drawables/icon/Edit_32x32.png</file>
+        <file>drawables/icon/Help_32x32.png</file>
+        <file>drawables/icon/Information_32x32.png</file>
+        <file>drawables/icon/Letter-A-blue-icon.png</file>
+        <file>drawables/icon/Letter-A-dg-icon.png</file>
+        <file>drawables/icon/Letter-A-red-icon.png</file>
+        <file>drawables/icon/Letter-C-blue-icon.png</file>
+        <file>drawables/icon/Letter-C-orange-icon.png</file>
+        <file>drawables/icon/nasm.ico</file>
+        <file>drawables/icon/nasm.png</file>
+        <file>drawables/icon/nasm2ide.ico</file>
+        <file>drawables/icon/nasm2ide.png</file>
+        <file>drawables/icon/new.png</file>
+        <file>drawables/icon/New_32x32.png</file>
+        <file>drawables/icon/open.png</file>
+        <file>drawables/icon/Open_32x32.png</file>
+        <file>drawables/icon/paste.png</file>
+        <file>drawables/icon/Paste_32x32.png</file>
+        <file>drawables/icon/Play_32x32.png</file>
+        <file>drawables/icon/Print_32x32.png</file>
+        <file>drawables/icon/Redo_32x32.png</file>
+        <file>drawables/icon/save.png</file>
+        <file>drawables/icon/Save_32x32.png</file>
+        <file>drawables/icon/Save-as-icon.png</file>
+        <file>drawables/icon/Settings_32x32.png</file>
+        <file>drawables/icon/Undo_32x32.png</file>
+        <file>drawables/icon/zoomin_32x32.png</file>
+        <file>drawables/icon/zoomout_32x32.png</file>
+    </qresource>
+</RCC>
